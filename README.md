@@ -1,0 +1,2 @@
+# Termuxc
+TRRMUX COWSAY NO DEFAULT! 
